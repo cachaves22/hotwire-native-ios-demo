@@ -1,6 +1,6 @@
 # Hotwire Native iOS Demo
 
-This is a demo iOS app built using [Hotwire Native](https://github.com/hotwired/turbo-ios), designed to showcase how Ruby on Rails apps can be extended into native mobile experiences with minimal native code.
+This is a demo iOS app built using [Hotwire Native](https://native.hotwired.dev/), designed to showcase how Ruby on Rails apps can be extended into native mobile experiences with minimal native code.
 
 ## 🧱 Tech Stack
 
